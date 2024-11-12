@@ -1,4 +1,5 @@
-Browser Logout Automation Scripts
+**Browser Logout Automation Scripts**
+
 🚀 Automate Gmail Account Logout and Browser Management
 
 This repository contains Python scripts that help you securely and efficiently log out of all Gmail accounts and close your browsers (Firefox, Chrome, and Edge).
