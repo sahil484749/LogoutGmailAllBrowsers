@@ -31,7 +31,7 @@ combined_logout.py: Combines all three into one script for added convenience.
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/BrowserLogoutAutomation.git
+git clone https://github.com/sahil484749/LogoutGmailAllBrowsers.git
 cd BrowserLogoutAutomation
 Run the desired script using Python:
 For Firefox:
